@@ -1,71 +1,15 @@
-<h1 align="center">Hi 👋, I'm Kartik Chendekar</h1>
-<h3 align="center">A Computer Science student focused on Machine Learning, Data Science and Problem Solving (DSA).</h3>
+# 💫 About Me:
+🧑‍💻 About Me Content<br><br>🔭 I’m currently working on<br>End-to-End Machine Learning Projects and improving Data Structures & Algorithms problem-solving for placements.<br><br>👯 I’m looking to collaborate on<br>Beginner-friendly Web Development or Machine Learning projects (especially real-world problem based projects).<br><br>🤝 I’m looking for help with<br>System Design basics, Deployment of ML models, and improving coding interview problem-solving speed.<br><br>🌱 I’m currently learning<br>Data Structures & Algorithms (C++), Machine Learning (Scikit-learn, Pandas, Numpy), and Backend Development with Node.js.<br><br>💬 Ask me about<br>DSA preparation strategy, ML beginner roadmap, GitHub projects, and placement preparation.<br><br>⚡ Fun fact<br>I enjoy debugging more than writing code — because that’s where real learning happens 😄
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kartikkk2005&label=Profile%20views&color=0e75b6&style=flat" alt="kartikkk2005" />
-</p>
 
----
-
-## 🚀 About Me
-- 🎯 Currently building: **End-to-End Machine Learning Project – Job Salary Prediction System**
-- 🤝 Interested in collaborating on: **Machine Learning projects using real-world datasets**
-- 📚 Currently learning: **Feature Engineering, Model Evaluation and Applied Machine Learning**
-- 💬 Ask me about: **DSA in C++, Regression, Classification, SVM, and ML fundamentals**
-- ⚡ Fun fact: **I solve DSA problems daily and enjoy applying mathematics to teach machines patterns from data**
+# 💻 Tech Stack:
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kartikkk2005&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=kartikkk2005&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikkk2005&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=kartikkk2005&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🔗 Projects
-- **Salary Prediction ML Project**  
-  https://github.com/kartikkk2005/Salary-Prediction-ML
-
-- **All repositories**  
-  https://github.com/kartikkk2005
-
----
-
-## 🧠 Skills
-**Languages**
-- C++
-- Python
-
-**Machine Learning**
-- Linear Regression
-- Logistic Regression
-- Support Vector Machine (SVM)
-- K-Nearest Neighbors
-- Decision Trees
-
-**Data Analysis**
-- Data Cleaning
-- Feature Engineering
-- Model Evaluation
-- Exploratory Data Analysis (EDA)
-
----
-
-## 🛠️ Languages and Tools
-<p align="left">
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-<a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/></a>
-<a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
-<a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></a>
-<a href="https://matplotlib.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/></a>
-<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
-<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kartikkk2005&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikkk2005&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
----
-
-## 📫 Contact
-- GitHub: https://github.com/kartikkk2005
-- Email: kartikchendekar@gmail.com
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
