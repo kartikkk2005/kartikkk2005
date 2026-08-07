@@ -1,49 +1,29 @@
-```{=html}
-<h1 align="center">
-```
-Hi 👋, I'm Kartik
-```{=html}
-</h1>
-```
-```{=html}
-<h3 align="center">
-```
-A passionate Machine Learning Enthusiast & Software Developer from India
-```{=html}
-</h3>
-```
-```{=html}
+<h1 align="center">Hi 👋, I'm Kartik</h1>
+<h3 align="center">A passionate Machine Learning Enthusiast & Software Developer from India</h3>
+
 <p align="center">
-```
-`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+End-to-End+ML+Projects;Exploring+Generative+AI+%26+LLMs;Sharpening+DSA+for+Placements;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG"/>`{=html}
-```{=html}
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+End-to-End+ML+Projects;Exploring+Generative+AI+%26+LLMs;Sharpening+DSA+for+Placements;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG"/>
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<img src="https://komarev.com/ghpvc/?username=kartikkk2005&label=Profile%20Views&color=0e75b6&style=flat"/>`{=html}
-`<img src="https://img.shields.io/github/followers/kartikkk2005?label=Followers&style=flat&color=blueviolet"/>`{=html}
-```{=html}
+  <img src="https://komarev.com/ghpvc/?username=kartikkk2005&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <img src="https://img.shields.io/github/followers/kartikkk2005?label=Followers&style=flat&color=blueviolet"/>
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<picture>`{=html}
-`<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kartikkk2005/kartikkk2005/output/github-contribution-grid-snake-dark.svg"/>`{=html}
-`<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kartikkk2005/kartikkk2005/output/github-contribution-grid-snake.svg"/>`{=html}
-`<img alt="Snake animation" src="https://raw.githubusercontent.com/kartikkk2005/kartikkk2005/output/github-contribution-grid-snake.svg"/>`{=html}
-`</picture>`{=html}
-```{=html}
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kartikkk2005/kartikkk2005/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kartikkk2005/kartikkk2005/output/github-contribution-grid-snake.svg"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/kartikkk2005/kartikkk2005/output/github-contribution-grid-snake.svg"/>
+  </picture>
 </p>
-```
+
 ## 💫 About Me
 
--   🔭 Working on End-to-End Machine Learning Projects
--   🌱 Learning DSA (C++), ML, GenAI, LangChain and Backend Development
--   💬 Ask me about ML, DSA, GitHub and Placement Preparation
--   ⚡ Fun fact: I enjoy debugging more than writing code.
+- 🔭 Working on End-to-End Machine Learning Projects
+- 🌱 Learning DSA (C++), ML, GenAI, LangChain and Backend Development
+- 💬 Ask me about ML, DSA, GitHub and Placement Preparation
+- ⚡ Fun fact: I enjoy debugging more than writing code.
 
 ## 🌐 Connect with Me
 
@@ -75,39 +55,23 @@ A passionate Machine Learning Enthusiast & Software Developer from India
 
 ## 📊 GitHub Stats
 
-```{=html}
 <p align="center">
-```
-`<img height="170" src="https://github-readme-stats.vercel.app/api?username=kartikkk2005&show_icons=true&theme=tokyonight&hide_border=true"/>`{=html}
-`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikkk2005&layout=compact&theme=tokyonight&hide_border=true"/>`{=html}
-```{=html}
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kartikkk2005&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikkk2005&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<img src="https://streak-stats.demolab.com?user=kartikkk2005&theme=tokyonight&hide_border=true"/>`{=html}
-```{=html}
+  <img src="https://streak-stats.demolab.com?user=kartikkk2005&theme=tokyonight&hide_border=true"/>
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=kartikkk2005&theme=tokyo-night&hide_border=true"/>`{=html}
-```{=html}
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kartikkk2005&theme=tokyo-night&hide_border=true"/>
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<img src="https://github-profile-trophy.vercel.app/?username=kartikkk2005&theme=tokyonight&no-frame=true&row=1"/>`{=html}
-```{=html}
+  <img src="https://github-profile-trophy.vercel.app/?username=kartikkk2005&theme=tokyonight&no-frame=true&row=1"/>
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<img src="https://visitcount.itsvg.in/api?id=kartikkk2005&icon=0&color=6"/>`{=html}
-```{=html}
+  <img src="https://visitcount.itsvg.in/api?id=kartikkk2005&icon=0&color=6"/>
 </p>
-```
